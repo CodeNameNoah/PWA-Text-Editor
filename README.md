@@ -73,7 +73,9 @@ Industry-Backed Solution: The choice of using idb as the data persistence soluti
 
 ## Application Preview
 
-![PWA SPA](https://github.com/CodeNameNoah/PWA-Text-Editor/assets/127361736/aad11131-6444-4ca5-950e-d3d42b414834)
+- Deployed Application Link: https://cryptic-stream-28920.herokuapp.com/
+
+- ![J A T E In Action](https://github.com/CodeNameNoah/PWA-Text-Editor/assets/127361736/35965d8a-33cd-454b-b9ca-1c3f32707a16)
 
 ---
 
@@ -96,8 +98,6 @@ Industry-Backed Solution: The choice of using idb as the data persistence soluti
 ## Getting Started
 
 To begin the installation process, first clone the GitHub Repository onto your local machine. After successfully cloning, open the root folder using the terminal. Execute the command "npm i" to install all the necessary modules and packages. Once the installation is finished, run "npm run start" to start the server and commence the operation.
-
-![NoSQLVerse - Getting Started](https://github.com/CodeNameNoah/E-Commerce-Back-End-ORMs/assets/127361736/07bbdc46-6645-4b5c-89d7-da49ce827802)
 
 ---
 
