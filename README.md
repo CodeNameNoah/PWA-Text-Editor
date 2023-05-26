@@ -9,7 +9,6 @@
 - [**Application Preview**](#Application-Preview)
 - [**Installation**](#installation)
 - [**Getting Started**](#Getting-Started)
-- [**Testing NoSQLVerse**](#Testing-NoSQLVerse)
 - [**Credits**](#Credits)
 - [**License**](#License)
 
@@ -74,9 +73,7 @@ Industry-Backed Solution: The choice of using idb as the data persistence soluti
 
 ## Application Preview
 
-- NoSQLVerse Tutorial - [NoSQLVerse Tutorial](https://www.youtube.com/watch?v=90Khu-0mxaY)
-
-- [![Watch the video](https://img.youtube.com/vi/90Khu-0mxaY/maxresdefault.jpg)](https://youtu.be/90Khu-0mxaY)
+![PWA SPA](https://github.com/CodeNameNoah/PWA-Text-Editor/assets/127361736/aad11131-6444-4ca5-950e-d3d42b414834)
 
 ---
 
@@ -86,7 +83,7 @@ Industry-Backed Solution: The choice of using idb as the data persistence soluti
 
 1. Click on the green code button and copy the link for the SSH key.
 2. Once clip-boarded load up a command line interface and change directory to one of your preference
-3. Enter in the command `git@github.com:CodeNameNoah/NoSQLVerse.git`
+3. Enter in the command `git@github.com:CodeNameNoah/PWA-Text-Editor.git`
 4. Enter your protected SSH password
 
 **To Download My Repository as a ZIP File**
@@ -98,37 +95,18 @@ Industry-Backed Solution: The choice of using idb as the data persistence soluti
 
 ## Getting Started
 
-To begin the installation process, first clone the GitHub Repository onto your local machine. After successfully cloning, open the root folder using the terminal. Execute the command "npm i" to install all the necessary modules and packages. Once the installation is finished, run "npm run dev" to start the server and commence the operation.
+To begin the installation process, first clone the GitHub Repository onto your local machine. After successfully cloning, open the root folder using the terminal. Execute the command "npm i" to install all the necessary modules and packages. Once the installation is finished, run "npm run start" to start the server and commence the operation.
 
 ![NoSQLVerse - Getting Started](https://github.com/CodeNameNoah/E-Commerce-Back-End-ORMs/assets/127361736/07bbdc46-6645-4b5c-89d7-da49ce827802)
 
 ---
 
-## Testing NoSQLVerse
-
-Insomnia Core is employed to perform comprehensive testing on all API routes. The creation and testing of Users, Thoughts, and Reactions are carried out using POST, PUT, and DELETE routes. These functionalities operate seamlessly to effectively create, update, and delete data within the NoSQL database of the Social Network API. Here are some various sneak peaks of my API in use.
-
-### Creating User
-
-![NoSQLVerse - Creating User](https://github.com/CodeNameNoah/E-Commerce-Back-End-ORMs/assets/127361736/5a15cf1b-25d9-4373-88b8-88f6d78b09a0)
-
-### Creating Thought
-
-![NoSQLVerse - Creating Thought](https://github.com/CodeNameNoah/E-Commerce-Back-End-ORMs/assets/127361736/6d0f3968-7a89-4d5e-9a7f-a73aac0e8441)
-
-### Updating Thought
-
-![Updating Thought](https://github.com/CodeNameNoah/E-Commerce-Back-End-ORMs/assets/127361736/77140f7b-a837-451e-9d89-e27521ffdd49)
-
 ## Credits
 
 - Express Installation: https://expressjs.com/en/starter/installing.html
 - Express API: https://expressjs.com/en/api.html
-- GET & POST Requests: https://www.diffen.com/difference/GET-vs-POST-HTTP-Requests
 - Error Help: https://stackoverflow.com/questions/14949118/node-js-error-cannot-find-module-express
 - Express Routing Guide: https://expressjs.com/en/guide/routing.html
-- Error in Sequelize: https://stackoverflow.com/questions/61515940/error-in-sequelize-name-sequelizeeagerloadingerror
-- Express Middleware: https://expressjs.com/en/guide/using-middleware.html
 
 ---
 
